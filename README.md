@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @battenr
+- 👋 Hi, I’m Ryan (aka @battenr)
 - 👀 I’m interested in RWE, Biostatistics and Clinical Epidemiology
 - 🌱 I’m currently learning statistics (the more I learn the less I feel I know) and R
 - 💞️ I’m looking to collaborate on academic projects
